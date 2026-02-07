@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: |cff00c0ff*|r LossOfControl |cff00ff00Ascension|r
+## Notes: Extends LossOfControl Ascension spellData and tweaks
+## Author:
+## Version: 1.0
+## SavedVariables: LossOfControlAscensionDB
+
+LossOfControlAscension.lua
+LossOfControlAscensionOptions.lua
