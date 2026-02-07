@@ -357,6 +357,8 @@ frame:SetScript("OnEvent", function(self, event, addonName)
     L[5588]  = { ccType = CROWD_CONTROL_TYPE_STUN, display = "CROWD_CONTROL_MECHANIC_STUNNED" } --Hammer of Justice
     L[12747]  = { ccType = CROWD_CONTROL_TYPE_ROOTS, display = "CROWD_CONTROL_MECHANIC_ROOTED" } --Entangling Roots
     L[2102729]  = { ccType = CROWD_CONTROL_TYPE_DISORIENT, display = "CROWD_CONTROL_MECHANIC_FLEEING" } --Nightmare Rift
+    L[2101505]  = { ccType = CROWD_CONTROL_TYPE_DISORIENT, display = "CROWD_CONTROL_MECHANIC_FLEEING" } --Fear
+    L[2101604]  = { ccType = CROWD_CONTROL_TYPE_INCAPACITATE, display = "CROWD_CONTROL_MECHANIC_POLYMORPHED" } --Polymorph
 
     ----------------------------------
     --- List from pw_lossofcontrol ---
